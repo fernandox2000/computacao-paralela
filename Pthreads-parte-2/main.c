@@ -1,7 +1,11 @@
 // Fernando Brito de Arruda Bertholino
 // 41906861
+
 // Link do repl.it:
 // https://replit.com/@FernandoBerthol/pthreadparte2
+
+// Link do GitHub:
+// https://github.com/fernandox2000/computacao-paralela/blob/main/Pthreads-parte-2/main.c
 
 
 #include <stdio.h>
